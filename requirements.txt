@@ -1,0 +1,10 @@
+fastapi
+starlette
+uvicorn
+fastmcp>=2.12
+langchain-mcp-adapters
+
+langchain
+langchain-google-genai
+python-dotenv
+
